@@ -246,4 +246,4 @@ Take the following screenshots for your project report chapters:
 
 ## License
 
-This project was developed for academic purposes as part of a B.Sc. Computer Science final year project at Edo State University, Iyamho. All rights reserved © 2026 Otse Henry.
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute with attribution.
