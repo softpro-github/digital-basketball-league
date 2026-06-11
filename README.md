@@ -1,33 +1,14 @@
 # Digital Basketball League Management System
 
-A web-based Basketball League Management System developed as a B.Sc. final year project for the Department of Computer Science, Edo State University Iyamho. The system digitises the management of basketball leagues, replacing manual/paper-based processes with an efficient, role-based web application.
 
-> **Author:** Otse Henry  
-> **Matric No:** CVS/CSC/24007954  
-> **Institution:** Edo State University, Iyamho  
-> **Supervisor:** [Supervisor Name]  
-> **Session:** 2025/2026
+The system digitises the management of basketball leagues, replacing manual/paper-based processes with an efficient, role-based web application.
+
 
 ---
 
 ## Project Overview
 
 The Digital Basketball League Management System (DBLMS) provides a centralised platform for organising and managing basketball league activities. It supports three distinct user roles — Administrator, Coach, and Player — each with a tailored interface and access level.
-
-### Problem Statement
-
-Traditional basketball league management relies heavily on paper records, spreadsheets, and manual calculations for fixtures, results, standings, and player statistics. This approach leads to data inaccuracies, delays in result publication, and poor accessibility of information for coaches and players.
-
-### Objectives
-
-- Automate the scheduling and management of league fixtures
-- Enable real-time recording of match results with quarter-by-quarter scoring
-- Automatically compute league standings from recorded results
-- Provide coaches with a roster management interface
-- Give players access to their personal statistics and team fixtures
-- Maintain a centralised, secure database of all league data
-
----
 
 ## Features
 
@@ -215,7 +196,39 @@ resources/views/
 
 ## Screenshots
 
-> *(To be added — see screenshot guide below)*
+### Landing & Authentication
+![Landing Page](screenshots/01_landing_page.png)
+![Login Page](screenshots/02_login_page.png)
+
+### Admin — Dashboard & Leagues
+![Admin Dashboard](screenshots/03_admin_dashboard.png)
+![Leagues List](screenshots/04_leagues_list.png)
+![Create League Form](screenshots/05_league_create_form.png)
+![League Standings](screenshots/06_league_standings.png)
+
+### Admin — Teams & Players
+![Teams List](screenshots/07_teams_list.png)
+![Create Team Form](screenshots/08_team_create_form.png)
+![Players List](screenshots/09_players_list.png)
+![Player Profile](screenshots/10_player_profile.png)
+
+### Admin — Fixtures & Results
+![Fixtures List](screenshots/11_fixtures_list.png)
+![Schedule Match Form](screenshots/12_schedule_match_form.png)
+![Record Result Form](screenshots/13_record_result_form.png)
+![Match Result Scoreboard](screenshots/14_match_result_scoreboard.png)
+
+### Admin — Users
+![Users List](screenshots/15_users_list.png)
+
+### Coach Interface
+![Coach Dashboard](screenshots/16_coach_dashboard.png)
+![Coach Team Roster](screenshots/17_coach_team_roster.png)
+
+### Player Interface
+![Player Dashboard](screenshots/18_player_dashboard.png)
+![Player Fixtures](screenshots/19_player_fixtures.png)
+![Player Standings](screenshots/20_player_standings.png)
 
 ---
 
